@@ -9,6 +9,8 @@ CONTENT:
 2. Hoja de cálculo que nos ayuda a trocear el problema
 3. PDF, que nos muestra la estrategia inicial a seguir
 
+Arquitectura del programa
+![Arquitectura](https://github.com/sukuzhanay/multicore-multiprocessing/blob/main/arquitectura%20del%20programa%20de%20multiplicacion.png)
 
 PYTHON trabajando en todos los CORES
  ![Design](https://github.com/sukuzhanay/multicore-multiprocessing/blob/main/python%20trabajando%20en%20paralelo.png)
