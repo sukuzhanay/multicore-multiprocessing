@@ -12,6 +12,8 @@ PYTHON trabajando en todos los CORES
  ![Design](https://github.com/sukuzhanay/multicore-multiprocessing/blob/main/python%20trabajando%20en%20paralelo.png)
 
 Todos los CORES,al 100 × 100
+![Todos los cores](https://github.com/sukuzhanay/multicore-multiprocessing/blob/main/todos%20los%20cores%20multiplicando.png)
+
 ![Logo of the project](https://github.com/sukuzhanay/tfginder/blob/main/UEM-logo.png)
 
 # Requisitos e Instalaciones
