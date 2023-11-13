@@ -8,9 +8,10 @@ Mediante las librerías, múltiprocessing y utilizando todos los recursos dispon
 # UNIDAD 2 Y 3 #
 CONTENT
 
- _**DockerFile**_ elaboración de archivo DockerFile para la construcción de una imagen customizada de el sistema operativo Kali Linux.
- ![Design](https://github.com/sukuzhanay/Kali-Linux-using-Docker/blob/main/pythonProject/Docker_)
- 
+PYTHON trabajando en todos los CORES
+ ![Design](https://github.com/sukuzhanay/multicore-multiprocessing/blob/main/python%20trabajando%20en%20paralelo.png)
+
+Todos los CORES,al 100 × 100
 ![Logo of the project](https://github.com/sukuzhanay/tfginder/blob/main/UEM-logo.png)
 
 # Requisitos e Instalaciones
