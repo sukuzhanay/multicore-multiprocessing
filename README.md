@@ -1,12 +1,14 @@
+![universidad-europea-logo](https://user-images.githubusercontent.com/17354471/218064896-b8411ee7-5cec-4e97-8a71-216a4e6f3bf4.png)
 # Programación Concurrente y Distribuida #
 # Multiplicación de matrices en paralelo, utilizando todos los cores de un ordenador
 Mediante las librerías, múltiprocessing y utilizando todos los recursos disponibles en un ordenador, concretamente todos los microprocesadores, multiplicamos dos matrices de tamaño n= cuatro primeros dígitos de nuestro expediente (Ej. 2153).
-
-![universidad-europea-logo](https://user-images.githubusercontent.com/17354471/218064896-b8411ee7-5cec-4e97-8a71-216a4e6f3bf4.png)
-
-
 # UNIDAD 2 Y 3 #
-CONTENT
+
+CONTENT:
+1. Programa en Python, que multiplica las matrices 
+2. Hoja de cálculo que nos ayuda a trocear el problema
+3. PDF, que nos muestra la estrategia inicial a seguir
+
 
 PYTHON trabajando en todos los CORES
  ![Design](https://github.com/sukuzhanay/multicore-multiprocessing/blob/main/python%20trabajando%20en%20paralelo.png)
